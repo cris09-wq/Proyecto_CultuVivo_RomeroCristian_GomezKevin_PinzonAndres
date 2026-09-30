@@ -1,5 +1,10 @@
 # Sistema de Gestión de Eventos - Fundación CultuVivo
 
+## Documentacion 
+
+https://docs.google.com/document/d/1LLb9adsH50-h5IRUKV1i65WsJ2D9miVK9lGQMe3dAiY/edit?usp=sharing
+
+
 Plataforma para gestionar los eventos culturales de la Fundación CultuVivo, organizando la agenda de los artistas, facilitando el registro de asistentes y controlando el aforo automáticamente
 
 ---
@@ -43,4 +48,4 @@ Proyecto desarrollado en 1 Sprint de 1 semana:
 
 1. Clonar el repositorio:
    ```bash
-   git clone 
+   git clone https://github.com/cris09-wq/Proyecto_CultuVivo_RomeroCristian_GomezKevin_PinzonAndres.git
